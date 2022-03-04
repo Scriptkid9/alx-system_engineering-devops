@@ -1,1 +1,2 @@
-Where AM I?
+#!/bin/bash
+Where Am I?
